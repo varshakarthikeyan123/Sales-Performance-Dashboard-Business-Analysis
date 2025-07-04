@@ -1,0 +1,53 @@
+📄 Business Summary ReportProject Title:
+Sales Performance Dashboard – Business Analysis
+
+Project Objective
+To provide a business-focused sales performance analysis using interactive dashboards, enabling decision-makers to identify regional trends, top-performing products, and strategic growth areas.
+
+- Key Insights
+Regional Sales Performance
+
+Central and East regions lead in total revenue and profit.
+
+South region shows low growth and underperformance.
+
+- Strategic focus on marketing and demand analysis for South.
+
+- Top-Selling Products
+
+Chairs, Phones, and Storage Units dominate sales.
+
+Profitability is high for these SKUs.
+
+- Upsell through bundles or accessories; focus promotional efforts here.
+
+Customer Segmentation
+
+Corporate customers yield higher average order values.
+
+Consumer segment contributes to volume but lower margin.
+
+- Introduce loyalty programs for Corporate clients.
+
+Discount vs Profitability
+
+Some heavily discounted products still underperform in profit.
+
+- Optimize discounting strategy to focus on high-converting SKUs.
+
+**Business Recommendations**
+✔ Reallocate marketing budget to low-performing regions (like South).
+✔ Reduce excessive discounts on low-margin products.
+✔ Promote high-profit top-selling products with combo offers.
+✔ Launch B2B incentives and loyalty schemes for Corporate clients.
+✔ Use insights to plan inventory forecasting and campaign timing.
+
+Tools Used
+Power BI – Dashboard creation, KPI calculation
+
+Power Query – Data cleaning and transformation
+
+DAX – Calculated measures and business metrics
+
+👩‍💼 Role:
+Business Analyst – Responsible for analysing trends, interpreting KPIs, and recommending strategies.
